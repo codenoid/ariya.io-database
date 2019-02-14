@@ -1,4 +1,4 @@
 # ariya.io-database
 a Ariya.io Database, collected by Hofesh Bot (Scrapper), w
 
-![Ariya Hidayat picture](https://pbs.twimg.com/profile_images/688389064865648640/ruegJvlb.jpg)
+![Ariya Hidayat picture](https://ariya.io/images/ariya.jpg)
